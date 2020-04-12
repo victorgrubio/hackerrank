@@ -1,0 +1,10 @@
+.vscode
+
+# compiled files
+# java
+.jar
+#C++
+*
+!*/
+!*.*
+
