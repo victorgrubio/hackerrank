@@ -1,3 +1,5 @@
+package DataStructures.java_sort;
+
 import java.util.*;
 import java.lang.Comparable;
 
